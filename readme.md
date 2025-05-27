@@ -5,6 +5,7 @@ This project allows you to publish your local projects to the internet using you
 ## Step 1: DNS Configuration
 
 In your Hosting Panel, go to **DNS Management** and add a subdomain with an "A" record pointing to your public IP address.
+![image](https://github.com/user-attachments/assets/97acc341-8a19-4921-b578-e535e6e16718)
 
 ## Step 2: Router Port Forwarding
 
