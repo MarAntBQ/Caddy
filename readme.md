@@ -37,6 +37,16 @@ caddy.exe run
 
 Caddy will automatically obtain SSL certificates and serve your projects securely.
 
+## Step 5: Get Your Public IP
+
+To easily obtain your public IP address, you can use the included script:
+
+```
+npm run get-ip
+```
+
+This will execute the `get-public-ip.bat` file, which uses curl to fetch your public IP from myip.directadmin.com. Useful for DNS configuration and troubleshooting.
+
 ---
 
 ## Copyright & Official URL
