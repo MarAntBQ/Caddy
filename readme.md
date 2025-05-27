@@ -40,7 +40,7 @@ Caddy will automatically obtain SSL certificates and serve your projects securel
 
 ## Copyright & Official URL
 
-Official project URL: [https://github.com/MarAntBQ/Caddy-Public-Hosting](https://github.com/MarAntBQ/Caddy-Public-Hosting)
+Official project URL: [https://github.com/MarAntBQ/Caddy](https://github.com/MarAntBQ/Caddy)
 
 These instructions were created by Marco Antonio Bustillos ([https://github.com/MarAntBQ/](https://github.com/MarAntBQ/))
 
