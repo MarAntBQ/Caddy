@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start-php": "cd C:\\php && php-cgi.exe -b 127.0.0.1:9000",
-    "start": "caddy.exe run"
+    "start": "caddy.exe run",
+    "get-ip": "get-public-ip.bat"
   },
   "keywords": [],
   "author": "",
