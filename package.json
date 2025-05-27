@@ -1,0 +1,13 @@
+{
+  "name": "caddy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start-php": "cd C:\\php && php-cgi.exe -b 127.0.0.1:9000",
+    "start": "caddy.exe run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
